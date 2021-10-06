@@ -3,3 +3,5 @@ gfd
 jkl
 mno
 prs
+kls
+min
