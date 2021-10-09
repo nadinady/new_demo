@@ -10,3 +10,6 @@ world
 what is
 your name
 time
+time
+color
+jin
